@@ -1,0 +1,11 @@
+no agendamento quando eu edito algum campo, o ID Endereço fica mudando, aumentando o número
+
+display block - um embaixo do outro
+display flex - um do lado do outro - o padrão é row (em linha) a direção é em linha
+flex-direction: para mudar a direção, ou seja os filhos do card q ele está vai para qual direção
+
+sempre colocar display flex no pai, para poder modificar os filhos
+
+
+→ mudar foto, tá meio estranho quando muda o tamanho da janela
+→ botão agendar não fica centralizado
